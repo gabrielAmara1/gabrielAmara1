@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá! Eu sou o Gabriel 👋
 
-<!--
-**gabrielAmara1/gabrielAmara1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou programador com 3 anos de experiência, focado em desenvolvimento web e software.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens**: Java, SQL, ActionScript
+- **Frameworks**: Spring, JPA, JSP
+- **Frontend**: Angular, PrimeNG, Tailwind
+- **Outras Experiências**: Integração de APIs, Otimização de desempenho
+
+## 🌱 Atualmente aprendendo:
+Sempre buscando aprimorar minhas habilidades, especialmente em novas tecnologias e melhores práticas de desenvolvimento.
+
+## ⚡ Um pouco mais sobre mim:
+Apaixonado por resolver problemas complexos através de soluções simples e eficientes. Estou sempre aberto a novas oportunidades e desafios!
+
+---
+
+📫 Você pode me encontrar em:
+- [GitHub](https://github.com/Gabriel7576)
